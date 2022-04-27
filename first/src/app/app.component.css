@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+.navbar{
+    background-color: orangered;
+    padding: 10px;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+.card{
+    box-shadow: 0 0 0 5px black;
+    padding: 15px;
+    padding:2 px;
+    width: 300px;
+    border-radius: 5px;
+    background:linear-gradient(45deg,black,darkgreen);
+}
